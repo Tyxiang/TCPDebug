@@ -1,0 +1,5 @@
+{
+    "ip/domain" : "forw.cc",
+    "port" : 80,
+    "buffer" : 2048
+}

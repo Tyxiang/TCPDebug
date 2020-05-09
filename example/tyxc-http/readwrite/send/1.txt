@@ -1,0 +1,12 @@
+POST /mvs_debug/ds/index.php HTTP/1.1
+Host: forw.cc
+Date: Tue, 05 Jun 2018 06:24:59 GMT
+Accept-Charset:UTF-8
+Content-length:256
+Connection: close
+Fn:69
+RAR:0
+RNR:1
+RAW:3074
+BMU_ID:1234567890123451
+

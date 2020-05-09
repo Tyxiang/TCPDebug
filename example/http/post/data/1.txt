@@ -1,0 +1,13 @@
+GET /mvs/ds/index.php HTTP/1.1
+Host: forw.cc
+Date: Tue, 05 Jun 2018 06:24:59 GMT
+Accept-Charset:UTF-8
+Content-length:34
+Connection: close
+Content-MD5: YzFmM2RmMTEzYmE0N2RiNg==
+Content-Encoding: gzip
+Fn:68
+RA:0
+RN:1
+BMU_ID:1234567890123451
+

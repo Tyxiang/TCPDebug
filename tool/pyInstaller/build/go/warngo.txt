@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named posix - imported by os, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named _posixsubprocess - imported by subprocess, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named org - imported by pickle, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named readline - imported by cmd, code, pdb, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named _winreg - imported by platform, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named 'java.lang' - imported by platform, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named termios - imported by tty, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py
+missing module named 'org.python' - imported by copy, D:\My Documents\1_Personal\3_Process\4_Open\TCPDebug\_pyInstaller\go.py, xml.sax

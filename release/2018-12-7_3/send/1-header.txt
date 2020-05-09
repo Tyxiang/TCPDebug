@@ -1,0 +1,12 @@
+GET /website/ HTTP/1.1
+Host: forw.cc
+Date: Thu, 06 Dec 2018 06:18:45 GMT
+Accept-Charset: UTF-8
+Content-length: 0
+Connection: close
+Accept-Ranges: bytes
+FN: 67
+RA: 0
+RN: 1
+BMU-ID: 1234567890123451
+
